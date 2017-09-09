@@ -7,7 +7,6 @@
 
 @section('js')
 
-
 <link rel="stylesheet" type="text/css" href="{{ url('datetimepicker/jquery.datetimepicker.css') }}">
 <script type="text/javascript" src="{{ url('datetimepicker/build/jquery.datetimepicker.full.js') }}"></script>
 <script src="{{ url('dist/js/jquery.validate.min.js') }}"></script>
@@ -18,11 +17,9 @@
 
 @section('pageContent')
 
-
 <div class="courses-title">
 	<h1>ПОДАТЬ ЗАЯВКУ НА КУРС</h1>
 </div>
-
 
 <div class="container">
 	<div class="row">
@@ -127,20 +124,20 @@
 							Город
 						</div>
 						<div class="bid-form-input col-md-10">
-							<input type="text" name="city" @if(Auth::check()) disabled value="{{Auth::user()->city}}" @endif></input>
+							<input type="text" name="city" @if(Auth::check()) disabled value="{{Auth::user()->city}}" @endif />
 						</div>
 
 
 						@if(Auth::check())
-						<input name="user_id" type="hidden" value="{{ Auth::id() }}"></input>
+						<input name="user_id" type="hidden" value="{{ Auth::id() }}" />
 						@endif
 
 
-						<input type="hidden" id="totalprice" name="totalprice" value="{{$totalprice}}"></input>
+						<input type="hidden" id="totalprice" name="totalprice" value="{{$totalprice}}" />
 
-						<div class="bid-form-totalprice col-md-10 mt10">
-							Сумма: {{$totalprice}}р
-						</div>
+						{{--<div class="bid-form-totalprice col-md-10 mt10">--}}
+							{{--Сумма: {{$totalprice}}р--}}
+						{{--</div>--}}
 
 						<div class="col-lg-6 col-lg-offset-4 bit-form-submit mt20">
 							<input type="submit" value="Оформить заявку">

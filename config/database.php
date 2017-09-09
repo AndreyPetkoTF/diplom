@@ -54,11 +54,11 @@ return [
 
         'mysql' => [
             'driver' => 'mysql',
-            'host' => 'streamla.mysql.ukraine.com.ua',
+            'host' => 'localhost',
             'port' => env('DB_PORT', '3306'),
-            'database' => 'streamla_school',
-            'username' => 'streamla_school',
-            'password' => '57wqn6mm',
+            'database' => 'school',
+            'username' => 'root',
+            'password' => '',
             'charset' => 'utf8',
             'collation' => 'utf8_unicode_ci',
             'prefix' => '',

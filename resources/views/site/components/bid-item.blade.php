@@ -9,7 +9,7 @@
 					</div>
 					<div class="bid-course-delete">
 						<div class="bid-price-button">
-							{{$course->price}}р
+							{{--{{$course->price}}р--}}
 						</div>
 						<div class="bid-delete-button" data-courseid="{{$course->id}}">
 							Удалить

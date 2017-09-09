@@ -5,7 +5,7 @@
 @stop
 
 @section('header')
-	<title>ИТ-школа Ирины Бузиковой</title>
+	<title>Система онлайн обучения</title>
 @stop
 
 @section('content')
@@ -28,20 +28,20 @@
 
 <div id="main-header">
 	<div class="container">
-		<div class="row">
-			<div class="col-lg-6 irina-Buzikova col-md-8 hidden-sm hidden-xs">
-				<img src="{{ url('/site_images/irina-buzikova.png') }}">
-			</div>
-			<div class="col-lg-6 col-md-4 main-title">
-				<img src="{{ url('/site_images/logo-white.png') }}">
-				<h1>IT-ШКОЛА</h1>
-				<h2>ИРИНЫ БУЗИКОВОЙ</h2>
-				<div class="second-title"><span>Онлайн обучение </span>
-					информационным технологиям
-				</div>
+		{{--<div class="row">--}}
+			{{--<div class="col-lg-6 irina-Buzikova col-md-8 hidden-sm hidden-xs">--}}
+				{{--<img src="{{ url('/site_images/irina-buzikova.png') }}">--}}
+			{{--</div>--}}
+			{{--<div class="col-lg-6 col-md-4 main-title">--}}
+				{{--<img src="{{ url('/site_images/logo-white.png') }}">--}}
+				{{--<h1>IT-ШКОЛА</h1>--}}
+				{{--<h2>ИРИНЫ БУЗИКОВОЙ</h2>--}}
+				{{--<div class="second-title"><span>Онлайн обучение </span>--}}
+					{{--информационным технологиям--}}
+				{{--</div>--}}
 
-			</div>
-		</div>
+			{{--</div>--}}
+		{{--</div>--}}
 	</div>
 </div>
 <div class="container">
@@ -69,20 +69,20 @@
 	</div>
 </div>
 
-<div id="irina">
-	<div class="container">
-		<div class="row">
-			<div class="col-sm-4"><img src="{{ url('/site_images/irina.png') }}"></div>
-			<div class="col-sm-8">
-				<img src="{{ url('/site_images/logo-blue.png') }}">
-				<h2>ИРИНА БУЗИКОВА</h2>
-				<h6>О создателе школы</h6>
-				<div class="clear"></div>
-				{!! $mainText !!}
-			</div>
-		</div>
-	</div>
-</div>
+{{--<div id="irina">--}}
+	{{--<div class="container">--}}
+		{{--<div class="row">--}}
+			{{--<div class="col-sm-4"><img src="{{ url('/site_images/irina.png') }}"></div>--}}
+			{{--<div class="col-sm-8">--}}
+				{{--<img src="{{ url('/site_images/logo-blue.png') }}">--}}
+				{{--<h2>ИРИНА БУЗИКОВА</h2>--}}
+				{{--<h6>О создателе школы</h6>--}}
+				{{--<div class="clear"></div>--}}
+				{{--{!! $mainText !!}--}}
+			{{--</div>--}}
+		{{--</div>--}}
+	{{--</div>--}}
+{{--</div>--}}
 
 <div class="container"><div class="row lead-title"><h2>ЛУЧШИЕ КУРСЫ</h2></div></div>
 <div class="arrows">
@@ -236,7 +236,7 @@ viewBox="0 0 18 57" width="17px" xml:space="preserve">
 			</div>
 			<div class="col-md-4 hidden-sm hidden-xs progress-text">
 				<a href="/page/{{$progressPages[6]}}">
-					<div class="icon-text"><p>ОПЛАЧИВАЕТЕ</p><p>КУРС</p></div>
+					<div class="icon-text"><p>ОЖИДАЕТЕ</p><p>АКТИВАЦИИ</p></div>
 				</a>
 			</div>
 		</div>
@@ -381,7 +381,7 @@ viewBox="0 0 18 57" width="17px" xml:space="preserve">
 <div class="present">
 	<div class="container">
 		<div class="row">
-			<img src="{{ url('/site_images/icon-bookmark.png') }}"><h5>УРОК В ПОДАРОК!</h5><img src="{{ url('/site_images/icon-present.png') }}">
+			<img src="{{ url('/site_images/icon-bookmark.png') }}"><h5>ПРОБНЫЙ УРОК!</h5><img src="{{ url('/site_images/icon-present.png') }}">
 
 		</div>
 		<div class="row">
@@ -402,8 +402,8 @@ viewBox="0 0 18 57" width="17px" xml:space="preserve">
 					<div class="col-md-4 col-sm-5">
 						<form method="POST" action="bid-add">
 							{{csrf_field()}}
-							<input type="text" name="name" placeholder="Имя">
-							<input type="text" name="email" placeholder="Email">
+							<input type="text" class="bid-input" name="name" placeholder="Имя">
+							<input type="text" class="bid-input" name="email" placeholder="Email">
 							<button type="submit">Получить урок</button>
 						</form>
 					</div>
@@ -412,30 +412,30 @@ viewBox="0 0 18 57" width="17px" xml:space="preserve">
 
 			</div>
 		</div>
-		<div class="iphone">
-			<div class="container">
-				<div class="row">
-					<div class="col-md-2 hidden-sm"></div>
-					<div class="col-md-6 col-sm-12 ">
-						{!! $giftText !!}
-					</div>
+		{{--<div class="iphone">--}}
+			{{--<div class="container">--}}
+				{{--<div class="row">--}}
+					{{--<div class="col-md-2 hidden-sm"></div>--}}
+					{{--<div class="col-md-6 col-sm-12 ">--}}
+						{{--{!! $giftText !!}--}}
+					{{--</div>--}}
 
-					<div class="col-sm-2 col-md-2 col-sm-12">
-						<img src="{{ url('/site_images/icon-iphone.png') }}">
-					</div>
-					<div class="col-md-2 hidden-sm">
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-2 hidden-sm"></div>
-					<div class="col-md-8 col-sm-12">
-						{!! $giftText2 !!}
-						<div class="button-iphone"><a href="{{ url('zayavka') }}">Подать заявку на курс</a></div>
-					</div>
-					<div class="col-md-2 hidden-sm"></div>
-				</div>
-			</div>
-		</div>
+					{{--<div class="col-sm-2 col-md-2 col-sm-12">--}}
+						{{--<img src="{{ url('/site_images/icon-iphone.png') }}">--}}
+					{{--</div>--}}
+					{{--<div class="col-md-2 hidden-sm">--}}
+					{{--</div>--}}
+				{{--</div>--}}
+				{{--<div class="row">--}}
+					{{--<div class="col-md-2 hidden-sm"></div>--}}
+					{{--<div class="col-md-8 col-sm-12">--}}
+						{{--{!! $giftText2 !!}--}}
+						{{--<div class="button-iphone"><a href="{{ url('zayavka') }}">Подать заявку на курс</a></div>--}}
+					{{--</div>--}}
+					{{--<div class="col-md-2 hidden-sm"></div>--}}
+				{{--</div>--}}
+			{{--</div>--}}
+		{{--</div>--}}
 
 
 		@include('site.components.newsBlock', ['news' => $news])

@@ -9,7 +9,7 @@ $(document).ready(function(){
 	});
 
 	$(document).on('click', '.bid-delete-button', function(){
-		id = $(this).data('courseid');
+		var id = $(this).data('courseid');
 		$(this).parent().parent().hide();
 		$.get('/ajax/cur-course-delete/' + id, function(data){
 			$('#totalprice').val(data);
@@ -20,7 +20,7 @@ $(document).ready(function(){
 
 
 	$('.course-list-item2').click(function(){
-		id = $(this).data('courseid');
+		var id = $(this).data('courseid');
 		$.get('/ajax/cur-course-add/' + id, function(data){
 			if(data == 0) {
 				return false;
@@ -41,7 +41,7 @@ $(document).ready(function(){
 	$('#zayavka-form').validate({
 		rules: {
 			name: {
-				required: true,
+				required: true
 			},
 			email: {
 				required:true,
@@ -51,7 +51,7 @@ $(document).ready(function(){
 		},
 		messages: {
 			name: {
-				required: "Вы не указали ваше имя",
+				required: "Вы не указали ваше имя"
 			},
 			email: {
 				required: "Вы не указали email",

@@ -56,7 +56,7 @@
 			</div>
 			<div class="row mt20">
 				<div class="course-page-price">
-					Цена: <span>{{$course->price}}р</span>
+					{{--Цена: <span>{{$course->price}}р</span>--}}
 				</div>
 				<div class="course-page-stars">
 					@include('site.components.stars', ['stars' => $course->stars])

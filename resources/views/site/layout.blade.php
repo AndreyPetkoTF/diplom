@@ -92,12 +92,12 @@
 	<div class="footer">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-2 hidden-xs">
-					<div class="footer-logo">
-						<img src="{{ url('/site_images/logo-footer.png') }}" alt="">
-					</div>
-				</div>
-				<div class="col-md-10">
+				{{--<div class="col-md-2 hidden-xs">--}}
+					{{--<div class="footer-logo">--}}
+						{{--<img src="{{ url('/site_images/logo-footer.png') }}" alt="">--}}
+					{{--</div>--}}
+				{{--</div>--}}
+				<div class="col-md-10 col-md-offset-1">
 					<div class="footer-links">
 						<div class="footer-link"><a href="/">Главная</a></div>
 						<div class="footer-link"><a href="/about">О школе</a></div>
@@ -117,7 +117,7 @@
 				<div class="row">
 					<div class="col-md-6 col-sm-12">
 						<div class="copyright">
-							IT-школа Ирины Бузиковой. Все права защишены.
+							Сервис онлайн обучения
 						</div>
 					</div>
 					<div class="col-md-6 col-sm-12">
@@ -140,7 +140,7 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="create">
-						Создание сайт <a href="http://ap-studio.com.ua/">AP-studio</a>
+						{{--Создание сайт <a href="http://ap-studio.com.ua/">AP-studio</a>--}}
 					</div>
 				</div>
 			</div>
