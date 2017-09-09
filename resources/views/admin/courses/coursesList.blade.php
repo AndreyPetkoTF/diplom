@@ -48,8 +48,7 @@
                                 <tr>
                                     <td><a href="/admin/course/edit/{{$course->id}}">{{$course->name}}</a></td>
                                     <td>{{$course->lessonsCount}}</td>
-                                    <td>@if($course->directionName){{$course->directionName}}@elseНаправление не
-                                        указано@endif</td>
+                                    <td>@if($course->directionName){{$course->directionName}}@else Направление не указано @endif</td>
                                     <td>
                                         <a href="/admin/course/lessons/{{$course->id}}">
                                             <button type="button"
