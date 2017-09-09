@@ -1,0 +1,73 @@
+
+
+.top {
+	width: 100%;
+}
+
+img {
+	max-width: 100%;
+}
+
+
+#left {
+	float: left;
+	width: 10.8%;
+}
+
+#right {
+	float: right;
+	width: 10.4%;
+}
+
+
+
+#name {
+	text-align: center;
+	color: green;
+	font-size: 40px;
+	font-family: Roboto;
+}
+
+#center {
+	width: 75%;
+	float: left;
+	font-family: Roboto;
+}
+
+
+#pass {
+	margin-top: 10px;
+	margin-left: 5%;
+	font-size: 16px;
+	font-family: Roboto;
+}
+
+#date{
+	margin-top: 60px;
+	font-size: 14px;
+}
+.course-name {
+	color: blue;
+	width: 50%;
+	font-size: 20px;
+	margin-top: 20px;
+	text-align: center;
+	float: left;
+	padding-top: 100px;
+	font-family: Roboto;
+}
+
+.sov {
+	width: 50%;
+	float: left;
+}
+
+.sov img {
+	/*height: 100px;*/
+	/*width: 50%;*/
+}
+.signature{
+	width: 70%;
+	float: right;
+	margin-top: 50px;
+}

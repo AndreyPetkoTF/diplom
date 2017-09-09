@@ -1,0 +1,1734 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Logi",
+				"LoginReporter〔class〕"
+			],
+			[
+				"ob",
+				"observable"
+			],
+			[
+				"obs",
+				"$observable〔variable〕"
+			],
+			[
+				"a",
+				"attachObservers〔function〕"
+			],
+			[
+				"obse",
+				"observer"
+			],
+			[
+				"is_a",
+				"is_array〔function〕"
+			],
+			[
+				"s",
+				"$specification〔variable〕"
+			],
+			[
+				"Cus",
+				"Customer〔class〕"
+			],
+			[
+				"setUp",
+				"setUpDatabase〔function〕"
+			],
+			[
+				"cus",
+				"$customer〔variable〕"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"gol",
+				"$goldSutomer〔variable〕"
+			],
+			[
+				"req",
+				"require〔keyword〕"
+			],
+			[
+				"su",
+				"successor"
+			],
+			[
+				"Home",
+				"HomeStatus〔class〕"
+			],
+			[
+				"Log",
+				"LogToFile〔class〕"
+			],
+			[
+				"log",
+				"logger"
+			],
+			[
+				"LogTO",
+				"LogToFile〔class〕"
+			],
+			[
+				"water",
+				"waterX"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"sub",
+				"$subcatId〔variable〕"
+			],
+			[
+				"fu",
+				"fullUrl"
+			],
+			[
+				"Di",
+				"Discussion"
+			],
+			[
+				"tex",
+				"textarea	Tag"
+			],
+			[
+				"cur",
+				"$currentPosition〔variable〕"
+			],
+			[
+				"userL",
+				"userLesson"
+			],
+			[
+				"user",
+				"userLessons"
+			],
+			[
+				"us",
+				"$userLessonsId〔variable〕"
+			],
+			[
+				"User",
+				"UserLesson〔class〕"
+			],
+			[
+				"exte",
+				"$extension〔variable〕"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"messa",
+				"$messages〔variable〕"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"userCou",
+				"$userCourse〔variable〕"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"check",
+				"checked"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"bren",
+				"brendId"
+			],
+			[
+				"order",
+				"orderId"
+			],
+			[
+				"cours",
+				"$course〔variable〕"
+			],
+			[
+				"pri",
+				"print_r〔function〕"
+			],
+			[
+				"text",
+				"textfield	textfiled"
+			],
+			[
+				"ukr",
+				"ukrposhta"
+			],
+			[
+				"deliveryPr",
+				"deliveryPricesStr"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"deli",
+				"$deliveryPrices〔variable〕"
+			],
+			[
+				"courses",
+				"$coursesIds〔variable〕"
+			],
+			[
+				"p",
+				"parent〔function〕"
+			],
+			[
+				"gift",
+				"giftText2"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"no",
+				"novelty"
+			],
+			[
+				"me",
+				"$menuDirections〔variable〕"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"dire",
+				"$directions〔variable〕"
+			],
+			[
+				"full",
+				"fullDescription"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"brea",
+				"breadcrumb"
+			],
+			[
+				"Req",
+				"Requests〔namespace〕"
+			],
+			[
+				"jso",
+				"json_encode〔function〕"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"price",
+				"$price2Tomorrow〔variable〕"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"main",
+				"main.js"
+			],
+			[
+				"set",
+				"setInterval〔function〕"
+			],
+			[
+				"getMi",
+				"getMinutes〔function〕"
+			],
+			[
+				"ho",
+				"getHours〔function〕"
+			],
+			[
+				"names",
+				"namesCount"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"q",
+				"$query〔variable〕"
+			],
+			[
+				"call",
+				"$callback_id〔variable〕"
+			],
+			[
+				"qu",
+				"$query〔variable〕"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"bre",
+				"brend_id"
+			],
+			[
+				"cate",
+				"categoryId"
+			],
+			[
+				"cateo",
+				"category"
+			],
+			[
+				"Auth",
+				"Auth::user"
+			],
+			[
+				"bread",
+				"breadcrumbs"
+			],
+			[
+				"cont",
+				"$contacts〔variable〕"
+			],
+			[
+				"con",
+				"contacts"
+			],
+			[
+				"whole",
+				"wholesaler"
+			],
+			[
+				"add",
+				"address	Tag"
+			],
+			[
+				"start",
+				"$startIndex〔variable〕"
+			],
+			[
+				"sp",
+				"sprintf"
+			],
+			[
+				"In",
+				"InputArgument"
+			],
+			[
+				"Inpu",
+				"InputArgument〔namespace〕"
+			],
+			[
+				"out",
+				"$output〔variable〕"
+			],
+			[
+				"Out",
+				"OutputInterface〔namespace〕"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"whol",
+				"wholesalers"
+			],
+			[
+				"product",
+				"$product_url〔variable〕"
+			],
+			[
+				"product_",
+				"product_images"
+			],
+			[
+				"get",
+				"getWidth〔function〕"
+			],
+			[
+				"wate",
+				"$watermarkY〔variable〕"
+			],
+			[
+				"is",
+				"isWholesaler"
+			],
+			[
+				"pro",
+				"$products〔variable〕"
+			],
+			[
+				"newPro",
+				"newProducts"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"recPro",
+				"$recProduct〔variable〕"
+			],
+			[
+				"with",
+				"withProducts"
+			],
+			[
+				"produc",
+				"product"
+			],
+			[
+				"prod",
+				"product"
+			],
+			[
+				"que",
+				"querySelectorAll"
+			],
+			[
+				"che",
+				"checked"
+			],
+			[
+				"dec",
+				"$declarationNumber〔variable〕"
+			],
+			[
+				"delive",
+				"delivery_type"
+			],
+			[
+				"func",
+				"function〔keyword〕"
+			],
+			[
+				"produ",
+				"$product〔variable〕"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"ad",
+				"addProductBlock"
+			],
+			[
+				"regis",
+				"registration"
+			],
+			[
+				"reg",
+				"$registration〔variable〕"
+			],
+			[
+				"co",
+				"communicate"
+			],
+			[
+				"func_get",
+				"func_get_args〔function〕"
+			],
+			[
+				"abs",
+				"abstract〔keyword〕"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"sen",
+				"sendEmail"
+			],
+			[
+				"subs",
+				"subscriber"
+			],
+			[
+				"inta",
+				"$intakeItem〔variable〕"
+			],
+			[
+				"prd",
+				"product"
+			],
+			[
+				"u",
+				"$user_id〔variable〕"
+			],
+			[
+				"Aut",
+				"Auth::user"
+			],
+			[
+				"Auh",
+				"Auth::user"
+			],
+			[
+				"wp",
+				"wp_postview"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"get_defi",
+				"get_defined_vars"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "ins",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"laramake:m ",
+				"Laravel Artisan 5: Make:Migration"
+			],
+			[
+				"laramake:m",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"laramake:mig",
+				"Laravel Generate 5: Make:Migration:Schema"
+			],
+			[
+				"lara",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"Lara makemi",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"Lara",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"Laravel ",
+				"Laravel Artisan 5: Help"
+			],
+			[
+				"A",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"control",
+				"Package Control: Install Package"
+			],
+			[
+				"artisan",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"control ",
+				"Package Control: Install Package"
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"set ",
+				"Set Syntax: Sass"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pacha",
+				"Package Control: Add Channel"
+			],
+			[
+				"pa",
+				"Package Control: Add Channel"
+			],
+			[
+				"setSyntaht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"php ",
+				"Set Syntax: PHP"
+			],
+			[
+				"php -l",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"set s js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyntax j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setsyntax ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"se",
+				"Set Syntax: Emmet"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Running php /Applications/MAMP/htdocs/it-school.com/artisan list",
+			"print(self.PROJECT_PATH)",
+			"artisan",
+			"make",
+			"ls",
+			"mkdir -p ~/Library/Application\\ Support/TextMate/Bundles",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/my-patterns.com/test.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/observer.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/src/Customer.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/tests/CustomerIsGoldTest.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/src/CustomerIsGold.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/src/CustomersRepository.php",
+		"/Applications/MAMP/htdocs/it-school.com/config/database.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/tests/CustomersRepositoryTest.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/pagination/default.blade.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/patterns.sublime-project",
+		"/Applications/MAMP/htdocs/my-patterns.com/strategy.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/chain.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/specification.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/composer.json",
+		"/Applications/MAMP/htdocs/my-patterns.com/tests/bootstrap.php",
+		"/Applications/MAMP/htdocs/my-patterns.com/Customer.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/resources/views/admin/products/product-edit.blade.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/resources/views/admin/products/product-add.blade.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/app/Http/Controllers/AdminController.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/public/site/site.css",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/app/Image.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/app/Http/Controllers/HomeController.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/resources/views/site/product.blade.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/resources/views/site/threadProduct.blade.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/public/site/functions.js",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/resources/views/site/category.blade.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/app/Product.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/resources/views/site/index.blade.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/app/BreadcrumbsClasses/ProductBreadcrumbs.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/app/Breadcrumbs.php",
+		"/Users/Andrey/Desktop/Documents/ftpKaley/ftpsync.settings",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/homework/homeFiles.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/User/HomeController.php",
+		"/Applications/MAMP/htdocs/ander-landing.com/app/Http/Controllers/HomeController.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/profile/lesson-homework.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/css/profile.css",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/css/admin.css",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Admin/HomeworkController.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Message.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/UserLesson.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Homework.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/homework/homeList.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_20_171948_add_readed_to_lesson_messages.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/routes.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/components/nav.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/js/profile.js",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/profile/lesson.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/profile/layout.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_20_085435_create_user_lessons.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_20_085841_create_user_lesson_homeworks.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Helper.php",
+		"/Users/Andrey/Desktop/Documents/bazilik-inside/lesson.html",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/profile/course.blade.php",
+		"/Users/Andrey/Desktop/Documents/bazilik-inside/lesson-1.html",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/layout.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_20_064837_lesson-messages.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Auth/AuthController.php",
+		"/Applications/MAMP/htdocs/it-school.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesUsers.php",
+		"/Applications/MAMP/htdocs/it-school.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php",
+		"/Applications/MAMP/htdocs/it-school.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Middleware/Authenticate.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/profile/dashboard.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Course.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_20_074744_create_lesson_files.php",
+		"/Users/Andrey/Desktop/Documents/bazilik-inside/course.html",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/js/pages/dashboard.js",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Site/HomeController.php",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/css/site.css",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/feedback/orders.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Admin/FeedbackController.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/contacts.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/index.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/coursePage.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/news/newsList.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/courses/coursesList.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/courses.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/news.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Site/AjaxController.php",
+		"/Applications/MAMP/htdocs/kaley.com/app/Product.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/admin/products/product-add.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/public/dist/js/main.js",
+		"/Applications/MAMP/htdocs/kaley.com/app/Http/Controllers/AdminController.php",
+		"/Applications/MAMP/htdocs/kaley.com/app/Http/Controllers/AjaxController.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/admin/products/productsList.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/components/feedbackNav.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/feedback/feedbackList.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_18_151643_create_user_courses.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/User.php",
+		"/Applications/MAMP/htdocs/it-school.com/vendor/symfony/yaml/Tests/Fixtures/escapedCharacters.yml",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/zayavka.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/js/zayavka.js",
+		"/Applications/MAMP/htdocs/it-school.com/app/Order.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_18_145058_add_paid_to_orders.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_18_134733_add_city_to_order.php",
+		"/Users/Andrey/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/kaley.com/app/Http/Controllers/HomeController.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/admin/index.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/site/category.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/app/Ftp.php",
+		"/Applications/MAMP/htdocs/kaley.com/database/migrations/2016_04_18_125213_add_group_to_products.php",
+		"/Applications/MAMP/htdocs/kaley.com/database/migrations/2016_04_18_124505_add_code_to_products.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/admin/siteComponents/delivery-prices.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/site/cart.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/public/site/site.js",
+		"/Applications/MAMP/htdocs/kaley.com/app/Sendmail.php",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/admin/products/product-edit.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/app/Http/Controllers/ComponentsController.php",
+		"/Applications/MAMP/htdocs/kaley.com/vendor/phpspec/phpspec/src/PhpSpec/Matcher/ArrayKeyValueMatcher.php",
+		"/Applications/MAMP/htdocs/kaley.com/app/Keyval.php",
+		"/Applications/MAMP/htdocs/kaley.com/public/site/functions.js",
+		"/Applications/MAMP/htdocs/kaley.com/resources/views/admin/siteComponents/componentsList.blade.php",
+		"/Applications/MAMP/htdocs/kaley.com/public/Ostatki.xml",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_16_115226_create_order_courses_table.php",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_16_114735_create_orders_table.php",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/js/main.js",
+		"/Users/Andrey/Downloads/bad_1460627598/main.js",
+		"/Users/Andrey/Downloads/bad_1460627598/js/main.js",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/components/bid-item.blade.php",
+		"/Users/Andrey/Downloads/bad_1460627598/js/zayavka.js",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/variables/pageEdit.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/staticPage.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Admin/VariableController.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/admin/variables/varsList.blade.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Http/Controllers/Admin/AdminController.php",
+		"/Applications/MAMP/htdocs/it-school.com/app/Pages.php",
+		"/Applications/MAMP/htdocs/it-school.com/public/dist/js/direction.js",
+		"/Applications/MAMP/htdocs/it-school.com/database/migrations/2016_04_15_141959_create_comments_table.php",
+		"/Applications/MAMP/htdocs/it-school.com/resources/views/site/novelty.blade.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"",
+			"*.js",
+			".js",
+			"",
+			"*.js",
+			"js",
+			".js",
+			"<open folders>",
+			"",
+			"page",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"plan",
+			"addThe",
+			"thread-image",
+			"postBrendAdd",
+			"getProd",
+			"public static function getBy",
+			"getByBre",
+			"getAc",
+			"\"images/(.*?)\"",
+			"http://it-school.com/profile_images/check-mark-3-xxl.png",
+			".send-more button",
+			"\"file\"",
+			"\"file",
+			"file",
+			".disc-paginator-item",
+			"Login",
+			"\"images/(.*?)\"",
+			"course-logo",
+			"\"images/(.*?)\"",
+			"\"images(.*?)\"",
+			"ПОД",
+			"getProductSe",
+			"getPro",
+			"feedback",
+			"Заявки на",
+			"fullUrl",
+			"getPro",
+			"getProduct",
+			"key",
+			"Ostatki",
+			"ostatki",
+			"changeAvailableChexboxes",
+			"site",
+			"payment[]",
+			"delivery[]",
+			"getDeliveryPrices",
+			"currentCourse",
+			"\"images/(.*?)\"",
+			"iso",
+			"is",
+			"iso",
+			"groupByDirection",
+			"\"images/(.*?)\"",
+			"course",
+			"Подбро",
+			"\"images/(.*?)\"",
+			"content",
+			"contetn",
+			"\"images/(.*?)\"",
+			"image",
+			"\"images/(.*?)\"",
+			"Все",
+			"site_",
+			"image-news",
+			"site_images",
+			"image-news",
+			"images",
+			"\"images/(.*?)\"",
+			"Добавить",
+			"loock",
+			"lock-at",
+			"images",
+			"'font",
+			"\"images",
+			"images",
+			"button-reserve1",
+			"забро",
+			"ajax",
+			"h3",
+			"result h3",
+			"h3",
+			"title-line h3",
+			"five",
+			"vide",
+			"feedback",
+			"Фотофакты",
+			"container",
+			" .work-item",
+			".work .work-item",
+			"12",
+			"baza",
+			"Как ",
+			"Как попасть в нашу Базу Прове",
+			"ак попасть в нашу Базу Прове",
+			"<div class=\"help\"> Нужна помощь с регистрацией \nи оплатой тренинга? Нажмите ",
+			"button-window",
+			"canvas",
+			"<canvas class=\"hour\" width=\"150\" height=\"150\" ></canvas>\n				<canvas class=\"min\" width=\"150\" height=\"150\" ></canvas>\n				<canvas class=\"sek\" width=\"150\" height=\"150\" ></canvas>",
+			"canvas",
+			"ca",
+			"До С",
+			"100",
+			"main.js",
+			"ca",
+			"c",
+			"canvas",
+			"Заб",
+			"m",
+			"sim",
+			"radialProgress",
+			"example1",
+			"Я У",
+			"Я у",
+			"Я",
+			"get",
+			"@",
+			"logo",
+			"@media",
+			"subMenu",
+			"subMenuA",
+			"Please enter a valid email address",
+			"phone",
+			"setReaded",
+			"getNotReadedCallbacks",
+			"fullUrl",
+			"searchIcon",
+			"kaleydoskop.ap.org.ua",
+			"kaleydoskop.ap.org.ua/s",
+			"kaleydoskop.ap.org.ua",
+			"kaleydoskop",
+			"search",
+			"fullUrl",
+			"full",
+			"Auth::user()->role",
+			"Auth::user",
+			"getPro",
+			"price",
+			"function scroll"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"type",
+			"\"{{ url('/profile_images/\\1') }}\"",
+			"order",
+			"course",
+			"\"{{ url('/site_images/\\1') }}\"",
+			"../../site_images/",
+			"\"{{ url('/site_images/\\1') }}\"",
+			"lending/images",
+			"'lending/font",
+			"\"/lending/images",
+			"$this->request",
+			"zaglushka.png",
+			"product",
+			"avaks-shop.com",
+			"",
+			"/",
+			"http://kaleydoskop.ap.org.ua",
+			"\"{{ url('site/\\1') }}\"",
+			"\\1",
+			"order",
+			"\"{{ url('site/\\1') }}\"",
+			"\"{{ url('site/images/\\1') }}\"",
+			"\"/site/\\1\"",
+			"'/site/\\1'",
+			"'site/\\1'",
+			"\"{{ url('site/\\1') }}\"",
+			"'{{ url('site/\\1') }}'",
+			"\"{{ url('site/\\1') }}\"",
+			"\"{{ url('\\1') }}\"",
+			"{{ url('\\1') }}",
+			"{{ url(\\1) }}",
+			"\\1",
+			"/1",
+			"bla\\1",
+			"\\1",
+			"\"images/.*?\"",
+			"\\1",
+			"",
+			">' . l('Выберите') . '<",
+			"<td>' . l('номер заказа') . '</td>",
+			"<td>' . l('Стоимость') . '</td>",
+			"<td>' . l('Устройство') . '</td>",
+			">' . l('Выкл') . '<",
+			">' . l('Вкл') . '<",
+			">' . l('Файл') . '<",
+			"' . l('Цена задачи') . '",
+			"' . l('Дата исполнения') . '",
+			"' . l('Исполнитель') . '",
+			"' . l('Тема') . '",
+			"placeholder=\"' . l('введите email') . '\"",
+			"placeholder=\"' . l('введите телефон') . '\"",
+			"placeholder=\"' . l('введите должность') . '\"",
+			"' . l('Рейтинг') . '",
+			"' . l('Активность') . ':",
+			">' . l('Приоритет') . ':",
+			"' . l('Описание') . ':",
+			"' . l('Следующая') . '",
+			"' . l('Предыдущая') . '",
+			"placeholder='\" . l('введите название') . \"'",
+			"placeholder=\"' . l('введите название') . '\"",
+			"' . l('Название') . ':",
+			"' . l('шт.') . '",
+			">' . l('Автор') . '",
+			"value='\" . l('Удалить') . \"'",
+			"value=\"' . l('Удалить') . '\"",
+			"' . l('Комментарий') . ':",
+			"' . l('Заказов не найдено') . '",
+			"' . l('Нет заказов') . '",
+			"' . l('Все разделы') . '",
+			"' . l('Номер ремонта') . '",
+			"' . l('Номер телефона') . '",
+			">' . l('Все разделы') . '<",
+			">' . l('Цена') . '<",
+			"' . l('Название продукта') . '",
+			">' . l('Без картинок') . '<",
+			">' . l('Мои товары') . '<",
+			"' . l('Мои товары') . '",
+			">' . l('Экспорт') . '<",
+			">' . l('Товары') . '<",
+			"' . l('Добавить товар') . '",
+			"' . l('Добавить логистическую цепочку') . '",
+			"' . l('Куда') . ':",
+			"' . l('Откуда') . ':",
+			"placeholder=\"' . l('номер изделия') . '\"",
+			"placeholder=\"' . l('номер заказа') . '\"",
+			"'. l('мес') . '",
+			"' . l('История перемещений') . '",
+			"' . l('Клиент') . ':",
+			"value=\"' . l('Выгрузить данные') . '\"",
+			"<td>' . l('Поставщик') . '</td>",
+			"<td>' . l('Цена') . '</td>",
+			"<td>' . l('Заказ поставщику') . '</td>",
+			"<td>' . l('Заказ клиента') . '</td>",
+			"<td>' . l('Локация') . '</td>",
+			"<td>' . l('Серийный номер') . '</td>",
+			"<td>' . l('Склад') . '</td>",
+			"value=\"' . l('Поиск') . '\"",
+			"placeholder=\"' . l('серийный номер') .'\"",
+			"' . l('Номер заказа поставщику') . ':",
+			"' . l('Серийный номер') . ':",
+			"' . l('Тип вывода') . ':",
+			"' . l('Локация') . ':",
+			"' . l('Склад') . ':",
+			"' . l('Укажите работу') . '",
+			"' . l('Выберите запчасть') . '",
+			"' . l('Работы') . '",
+			"' . l('Стоимость ремонта') . ':",
+			"' . l('Источник') . ':",
+			"' . l('Код скидки') . ':",
+			"' . l('Гарантия') . ':",
+			"' . l('Номер возврата') . ':",
+			"' . l('Статус') . ':",
+			"' . l('Локации') . ':",
+			"' . l('Ориентировочная стоимость') . ':",
+			"' . l('Ориентировочная дата готовности') . ':",
+			"' . l('Неисправность со слов клиента') . ':",
+			"' . l('Сроки') . ':",
+			"' . l('Комлектация') . ':",
+			"' . l('Цвет') . ':",
+			"' . l('Устройство') . ':",
+			"' . l('Телефон') . ':",
+			"' . l('Заказчик') . ':",
+			"value='\" . l('Сохранить') . \"'",
+			"value='\" . l('Редактировать') . \"'",
+			"value='\" . l('Создать') . \"'",
+			"value='\" . l('Редактировать') . \"'",
+			"value=\"' . l('Редактировать') . '\"",
+			"value=\"' . l('Создать') . '\""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 114.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 114.0
+	},
+	"pinned_build_system": "",
+	"project": "it-school.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"data",
+				"it-school.com/config/database.php"
+			],
+			[
+				"",
+				"resources/views/admin/products/product-edit.blade.php"
+			],
+			[
+				"produ-add",
+				"resources/views/admin/products/product-add.blade.php"
+			],
+			[
+				"product-ed",
+				"resources/views/admin/products/product-edit.blade.php"
+			],
+			[
+				"product-add",
+				"resources/views/admin/products/product-add.blade.php"
+			],
+			[
+				"adm",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"hom",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"site",
+				"public/site/site.css"
+			],
+			[
+				"image",
+				"app/Image.php"
+			],
+			[
+				"produ",
+				"resources/views/site/product.blade.php"
+			],
+			[
+				"threa",
+				"resources/views/site/threadProduct.blade.php"
+			],
+			[
+				"fu",
+				"public/site/functions.js"
+			],
+			[
+				"cate",
+				"resources/views/site/category.blade.php"
+			],
+			[
+				"productbreadcrumbs",
+				"app/BreadcrumbsClasses/ProductBreadcrumbs.php"
+			],
+			[
+				"bread",
+				"app/Breadcrumbs.php"
+			],
+			[
+				"product",
+				"resources/views/site/product.blade.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"threadproduct",
+				"resources/views/site/threadProduct.blade.php"
+			],
+			[
+				"fun",
+				"public/site/functions.js"
+			],
+			[
+				"index",
+				"resources/views/site/index.blade.php"
+			],
+			[
+				"category",
+				"resources/views/site/category.blade.php"
+			],
+			[
+				"produc.",
+				"app/Product.php"
+			],
+			[
+				"dis",
+				"it-school.com/resources/views/profile/discussions.blade.php"
+			],
+			[
+				"cou",
+				"it-school.com/app/Course.php"
+			],
+			[
+				"homeco",
+				"it-school.com/app/Http/Controllers/Site/HomeController.php"
+			],
+			[
+				"lara",
+				"it-school.com/storage/logs/laravel.log"
+			],
+			[
+				"disscusion_m",
+				"it-school.com/database/migrations/2016_04_21_103730_crea_discussion_messages_table.php"
+			],
+			[
+				"create_ds",
+				"it-school.com/database/migrations/2016_04_21_103326_create_discussions_table.php"
+			],
+			[
+				"la",
+				"it-school.com/resources/views/profile/layout.blade.php"
+			],
+			[
+				"add_rea",
+				"it-school.com/database/migrations/2016_04_20_171948_add_readed_to_lesson_messages.php"
+			],
+			[
+				"homeli",
+				"it-school.com/resources/views/admin/homework/homeList.blade.php"
+			],
+			[
+				"homw",
+				"it-school.com/app/Http/Controllers/Admin/HomeworkController.php"
+			],
+			[
+				"homec",
+				"it-school.com/app/Http/Controllers/User/HomeController.php"
+			],
+			[
+				"homefil",
+				"it-school.com/resources/views/admin/homework/homeFiles.blade.php"
+			],
+			[
+				"lesson-homework",
+				"it-school.com/resources/views/profile/lesson-homework.blade.php"
+			],
+			[
+				"mes",
+				"it-school.com/app/Message.php"
+			],
+			[
+				"mess",
+				"it-school.com/app/Message.php"
+			],
+			[
+				"homew",
+				"it-school.com/app/Http/Controllers/Admin/HomeworkController.php"
+			],
+			[
+				"admi",
+				"it-school.com/public/dist/css/admin.css"
+			],
+			[
+				"pro",
+				"it-school.com/public/dist/css/profile.css"
+			],
+			[
+				"homefiles",
+				"it-school.com/resources/views/admin/homework/homeFiles.blade.php"
+			],
+			[
+				"homefile",
+				"it-school.com/resources/views/admin/homework/homeFiles.blade.php"
+			],
+			[
+				"userlesson",
+				"it-school.com/app/UserLesson.php"
+			],
+			[
+				"homewo",
+				"it-school.com/app/Http/Controllers/Admin/HomeworkController.php"
+			],
+			[
+				"homefi",
+				"it-school.com/resources/views/admin/homework/homeFiles.blade.php"
+			],
+			[
+				"homef",
+				"it-school.com/resources/views/admin/homework/homeFiles.blade.php"
+			],
+			[
+				"user",
+				"it-school.com/app/UserLesson.php"
+			],
+			[
+				"route",
+				"it-school.com/app/Http/routes.php"
+			],
+			[
+				"message",
+				"it-school.com/app/Message.php"
+			],
+			[
+				"userl",
+				"it-school.com/app/UserLesson.php"
+			],
+			[
+				"hel",
+				"it-school.com/app/Helper.php"
+			],
+			[
+				"user_less",
+				"it-school.com/database/migrations/2016_04_20_085841_create_user_lesson_homeworks.php"
+			],
+			[
+				"create_user",
+				"it-school.com/database/migrations/2016_04_20_085435_create_user_lessons.php"
+			],
+			[
+				"ho",
+				"it-school.com/app/Http/Controllers/User/HomeController.php"
+			],
+			[
+				"lesso_fi",
+				"it-school.com/database/migrations/2016_04_20_074744_create_lesson_files.php"
+			],
+			[
+				"le",
+				"it-school.com/resources/views/profile/lesson-homework.blade.php"
+			],
+			[
+				"messa",
+				"it-school.com/app/Message.php"
+			],
+			[
+				"lessonhome",
+				"it-school.com/resources/views/profile/lesson-homework.blade.php"
+			],
+			[
+				"lessonmess",
+				"it-school.com/database/migrations/2016_04_20_064837_lesson-messages.php"
+			],
+			[
+				"throttleslogins",
+				"it-school.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ThrottlesLogins.php"
+			],
+			[
+				"authenticatesandregistersusers",
+				"it-school.com/vendor/laravel/framework/src/Illuminate/Foundation/Auth/AuthenticatesAndRegistersUsers.php"
+			],
+			[
+				"course",
+				"it-school.com/resources/views/profile/course.blade.php"
+			],
+			[
+				"co",
+				"it-school.com/app/Course.php"
+			],
+			[
+				"c",
+				"it-school.com/app/Course.php"
+			],
+			[
+				"dashboard",
+				"it-school.com/resources/views/profile/dashboard.blade.php"
+			],
+			[
+				"hoem",
+				"it-school.com/app/Http/Controllers/User/HomeController.php"
+			],
+			[
+				"courses",
+				"resources/views/site/courses.blade.php"
+			],
+			[
+				"news",
+				"resources/views/site/news.blade.php"
+			],
+			[
+				"newsl",
+				"resources/views/admin/news/newsList.blade.php"
+			],
+			[
+				"coursepage",
+				"resources/views/site/coursePage.blade.php"
+			],
+			[
+				"ind",
+				"resources/views/site/index.blade.php"
+			],
+			[
+				"aja",
+				"app/Http/Controllers/Site/AjaxController.php"
+			],
+			[
+				"layou",
+				"resources/views/site/layout.blade.php"
+			],
+			[
+				"nav",
+				"resources/views/admin/components/nav.blade.php"
+			],
+			[
+				"conta",
+				"resources/views/site/contacts.blade.php"
+			],
+			[
+				"feed",
+				"app/Http/Controllers/Admin/FeedbackController.php"
+			],
+			[
+				"proadd",
+				"resources/views/admin/products/product-add.blade.php"
+			],
+			[
+				"p",
+				"app/Product.php"
+			],
+			[
+				"mai",
+				"public/dist/js/main.js"
+			],
+			[
+				"prol",
+				"resources/views/admin/products/productsList.blade.php"
+			],
+			[
+				"z",
+				"resources/views/site/zayavka.blade.php"
+			],
+			[
+				"order",
+				"app/Order.php"
+			],
+			[
+				"fe",
+				"app/Http/Controllers/Admin/FeedbackController.php"
+			],
+			[
+				"add_pa",
+				"database/migrations/2016_04_18_145058_add_paid_to_orders.php"
+			],
+			[
+				"orde",
+				"app/Order.php"
+			],
+			[
+				"orders",
+				"resources/views/admin/feedback/orders.blade.php"
+			],
+			[
+				"fee",
+				"app/Http/Controllers/Admin/FeedbackController.php"
+			],
+			[
+				"fedc",
+				"vendor/symfony/yaml/Tests/Fixtures/escapedCharacters.yml"
+			],
+			[
+				"feedc",
+				"app/Http/Controllers/Admin/FeedbackController.php"
+			],
+			[
+				"add_c",
+				"database/migrations/2016_04_18_134733_add_city_to_order.php"
+			],
+			[
+				"zayavka",
+				"resources/views/site/zayavka.blade.php"
+			],
+			[
+				"main",
+				"public/dist/js/main.js"
+			],
+			[
+				"productslist",
+				"resources/views/admin/products/productsList.blade.php"
+			],
+			[
+				"prod.",
+				"app/Product.php"
+			],
+			[
+				"admic",
+				"app/Http/Controllers/AdminController.php"
+			],
+			[
+				"admin",
+				"resources/views/admin/index.blade.php"
+			],
+			[
+				"category.bl",
+				"resources/views/site/category.blade.php"
+			],
+			[
+				"os",
+				"public/Ostatki.xml"
+			],
+			[
+				"ftp",
+				"app/Ftp.php"
+			],
+			[
+				"produ.p",
+				"app/Product.php"
+			],
+			[
+				"add_grou",
+				"database/migrations/2016_04_18_125213_add_group_to_products.php"
+			],
+			[
+				"ox",
+				"public/Ostatki.xml"
+			],
+			[
+				"o",
+				"public/Ostatki.xml"
+			],
+			[
+				"add_co",
+				"database/migrations/2016_04_18_124505_add_code_to_products.php"
+			],
+			[
+				"osta",
+				"public/Ostatki.xml"
+			],
+			[
+				"key",
+				"app/Keyval.php"
+			],
+			[
+				"comco",
+				"app/Http/Controllers/ComponentsController.php"
+			],
+			[
+				"pro-ad",
+				"resources/views/admin/products/product-add.blade.php"
+			],
+			[
+				"car",
+				"resources/views/site/cart.blade.php"
+			],
+			[
+				"pro-add",
+				"resources/views/admin/products/product-add.blade.php"
+			],
+			[
+				"cart",
+				"resources/views/site/cart.blade.php"
+			],
+			[
+				"ke",
+				"app/Keyval.php"
+			],
+			[
+				"keyva",
+				"app/Keyval.php"
+			],
+			[
+				"cart.",
+				"resources/views/site/cart.blade.php"
+			],
+			[
+				"componentslist",
+				"resources/views/admin/siteComponents/componentsList.blade.php"
+			],
+			[
+				"components",
+				"app/Http/Controllers/ComponentsController.php"
+			],
+			[
+				"product-ad",
+				"resources/views/admin/products/product-add.blade.php"
+			],
+			[
+				"send",
+				"app/Sendmail.php"
+			],
+			[
+				"create_order",
+				"it-school.com/database/migrations/2016_04_16_115226_create_order_courses_table.php"
+			],
+			[
+				"create_or",
+				"it-school.com/database/migrations/2016_04_16_114735_create_orders_table.php"
+			],
+			[
+				"za",
+				"it-school.com/public/dist/js/zayavka.js"
+			],
+			[
+				"bid",
+				"it-school.com/resources/views/site/components/bid-item.blade.php"
+			],
+			[
+				"za.js",
+				"bad_1460627598/js/zayavka.js"
+			],
+			[
+				"zay",
+				"bad_1460627598/zayavka.html"
+			],
+			[
+				"rou",
+				"it-school.com/app/Http/routes.php"
+			],
+			[
+				"varli",
+				"it-school.com/resources/views/admin/variables/varsList.blade.php"
+			],
+			[
+				"pages",
+				"it-school.com/app/Pages.php"
+			],
+			[
+				"var",
+				"it-school.com/app/Http/Controllers/Admin/VariableController.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Applications/MAMP/htdocs/my-patterns.com/specification.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 244.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

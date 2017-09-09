@@ -1,0 +1,79 @@
+
+
+.form-img img {
+	width: 100px;
+}
+
+.post p{
+	padding-left: 10px;
+}
+
+
+.post img {
+	width: 50px;
+}
+
+.my-content {
+	padding: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+
+.info-table {
+	background-color: white;
+}
+
+.small-delete {
+	width: 20%;
+}
+
+
+#answer-item {
+	display: none;
+}
+
+.delete-answer {
+	float: right;
+}
+
+.delete-answer  a {
+	color: red;
+}
+
+
+.smiles img {
+	/*max-width: 100%;*/
+	width: 100%;
+	/*max-height: 50px;*/
+}
+.smiles {
+	text-align: center;
+	line-height: 77px;
+	margin-top: 10px;
+}
+
+.smile-item {
+	cursor: pointer;
+}
+
+
+.email-item {
+	float: left;
+}
+
+.email-item input {
+	margin: 3px;
+
+}
+
+.clear {
+	clear: both;
+}
+
+.mt20 {
+	margin-top: 20px;
+}
+
