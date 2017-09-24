@@ -104,7 +104,7 @@
 						<div class="footer-link"><a href="/page/publichnaya-oferta">Публичная оферта</a></div>
 						<div class="footer-link"><a href="/page/politika-konfidenczialbnosti">Политика конфиденциальности</a></div>
 						<div class="footer-link"><a href="/page/faq">FAQ</a></div>
-						<div class="footer-link"><a href="/page/sposoby-oplaty">Способы оплаты</a></div>
+						<div class="footer-link"><a href="/page/sposoby-oplaty">Как начать обучение</a></div>
 						<div class="footer-link"><a href="/partners">Партнерам</a></div>
 						<div class="footer-link"><a href="/contacts">Контакты</a></div>
 					</div>

@@ -29,11 +29,12 @@ use App\Helper;
 class HomeController extends Controller
 {
 
+    protected $request;
+
 	public function __construct() {
 		$this->request = Request::all();
 		unset($this->request['_token']);
 	}
-
 
 	public function getIndex() {
 		$courses = (new CourseRepository(new Course))->sortByRate()->get(5);
@@ -50,9 +51,7 @@ class HomeController extends Controller
 			$course->stars = (new ReviewRepository( Review::all()))->getCourseStars($course->id);
 		}
 
-
 		$progressPages = Pages::progressPagesUrl()->lists('url','id');
-
 
 		return view('site.index', compact('courses', 'news', 'mainText', 'giftText', 'giftText2', 'lessonText', 'sliderUsers', 'progressPages'));
 	}

@@ -360,7 +360,6 @@ html {
 }
 
 .second-title {
-
     text-align: center;
     border: 3px solid #485fed;
     padding: 30px 15px;
@@ -369,6 +368,8 @@ html {
     font-family: Roboto;
     font-weight: 300;
     line-height: 33px;
+    width: 90%;
+    margin-left: 10%;
 }
 
 .second-title span {
